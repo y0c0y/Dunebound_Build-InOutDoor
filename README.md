@@ -9,7 +9,7 @@ ${\textsf{\color{gray}(위 프로젝트에서 저의 담당 파트(건축 및 �
 ## 주요 기술 스택
 
 - **Unity 6000.1.2f1** - 게임 엔진
-- **Fusion 2.0** - 네트워크 멀티플레이어
+- **Fusion 2 (Host 모드)** - 네트워크 멀티플레이어
 - **Odin Inspector** - 에디터 UI 프레임워크
 - **UniTask** - 비동기 처리
 - **VolumetricFogAndMist2** - 환경 효과
